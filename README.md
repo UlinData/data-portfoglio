@@ -8,4 +8,4 @@ Currently learning:
 - Data Cleaning
 - Charts and pivot
 
-This repository will contain all my learning projets.
+This repository will contain all my learning projects.

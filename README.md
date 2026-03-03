@@ -13,7 +13,12 @@ Currently learning:
 - Added IF logic for revenue status
 - Added discount and final revenue calculation
 - sorting and chart included
-
+### Week 1 Project 2
+- Built a small dataset with items, categories, quantity and price
+- Calculated total revenue per item and per category using formulas and SUMIF
+- Added IF logic for revenue status
+- Created a colums chart (revenue by item) and pie chart (revenue by category)
+- Performed basic analysis and interpretation of results
 
 This repository will contain all my learning projects.
 
